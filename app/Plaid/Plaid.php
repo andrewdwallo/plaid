@@ -2,6 +2,7 @@
 
 namespace App\Plaid;
 
+
 use App\Models\User;
 use Illuminate\Support\Facades\Http;
 
